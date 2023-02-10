@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://redpull1997.github.io/csb-ewv657/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://redpull1997.github.io/csb-ewv657/static/js/main.925597aa.chunk.js",
-    "main.js.map": "https://redpull1997.github.io/csb-ewv657/static/js/main.925597aa.chunk.js.map",
+    "main.js": "https://redpull1997.github.io/csb-ewv657/static/js/main.dac153f2.chunk.js",
+    "main.js.map": "https://redpull1997.github.io/csb-ewv657/static/js/main.dac153f2.chunk.js.map",
     "runtime-main.js": "https://redpull1997.github.io/csb-ewv657/static/js/runtime-main.c9f1d5c1.js",
     "runtime-main.js.map": "https://redpull1997.github.io/csb-ewv657/static/js/runtime-main.c9f1d5c1.js.map",
     "static/js/2.1a4a2761.chunk.js": "https://redpull1997.github.io/csb-ewv657/static/js/2.1a4a2761.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c9f1d5c1.js",
     "static/js/2.1a4a2761.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.925597aa.chunk.js"
+    "static/js/main.dac153f2.chunk.js"
   ]
 }
